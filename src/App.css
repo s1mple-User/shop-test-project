@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.darkGradient{
+    background: linear-gradient(to right, #0f0c29, #302b63, #24243e);
+}
+.lightGradient{
+    background: linear-gradient(to right, #2980b9, #6dd5fa, #ffffff);
+}
+.YellowGradient{
+    background: linear-gradient(to right, #fceabb, #f8b500);
+}
+.BlueGradient{
+    background: linear-gradient(to right, #0f0c29, #302b63, #24243e);
+}
+.NavGradient{
+    background: linear-gradient(to right, #2193b0, #6dd5ed);
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
